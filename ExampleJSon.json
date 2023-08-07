@@ -1,0 +1,13 @@
+{
+
+    "pais":"mexico",
+    "estado":"nuevo leon",
+    "temperatura":"30 grados",
+    "humedad":"50%",
+    "viento":"10km/h",
+    "lluvia":"no"
+}
+
+
+
+URL = "http://localhost:3000/api/clima/{Valor de la ciudad}"
